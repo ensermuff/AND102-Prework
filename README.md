@@ -1,8 +1,8 @@
-# Android Prework - *HelloWorld*
+# Android Prework - *Hello World*
 
 Submitted by: **Firaol**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
@@ -10,13 +10,17 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* List anything else that you can get done to improve the app functionality!
+* [ ] Add a dynamic greeting that includes the current time of day (morning, afternoon, evening).
+* [ ] Include a button to switch between different greeting messages (casual, formal, friendly).
+* [ ] Implement a simple animation for the button or image to make the UI more engaging.
+
 
 ## Video Walkthrough
 
