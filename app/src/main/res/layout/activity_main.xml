@@ -10,12 +10,13 @@
         android:id="@+id/dogImageView"
         android:layout_width="300dp"
         android:layout_height="300dp"
+        android:layout_marginTop="48dp"
+        android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:scaleType="centerCrop"
-        android:layout_marginTop="48dp"
-        app:srcCompat="@drawable/cavalier_king_charles_spaniel"/>
+        app:srcCompat="@drawable/cavalier_king_charles_spaniel" />
 
     <TextView
         android:id="@+id/introTextView"
